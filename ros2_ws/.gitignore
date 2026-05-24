@@ -1,5 +1,7 @@
 build/
 install/
 log/
-*_solved.py
-*_solved.cpp
+yolo_env/
+*.pt
+__pycache__/
+
