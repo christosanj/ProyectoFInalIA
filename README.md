@@ -36,12 +36,3 @@ Un ambiente simulado como el siguiente:
 
 Y una GUI como la siguiente:
 ![GUIExample](https://github.com/mnegretev/Mobile-Robots-2026-1/blob/main/Media/gui.png)
-
-## Contacto
-Dr. Marco Negrete<br>
-Profesor Titular A<br>
-Jefe del Departamento de Procesamiento de Señales<br>
-Facultad de Ingeniería, UNAM <br>
-marco.negrete@ingenieria.unam.edu<br>
-mnegretev.info<br>
-
