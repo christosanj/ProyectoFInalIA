@@ -1,0 +1,7 @@
+build/
+install/
+log/
+yolo_env/
+*.pt
+__pycache__/
+
